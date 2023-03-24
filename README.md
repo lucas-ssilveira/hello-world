@@ -28,21 +28,6 @@ Acredito que os dados são a chave para a tomada de decisões inteligentes e que
 
 <!-- Fim da seção sobre mim -->
 
-<!-- Início da seção de projetos -->
-## Projetos
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-### [Projeto 1](https://github.com/seuusuario/projeto1)
-
-Descrição breve do projeto.
-
-### [Projeto 2](https://github.com/seuusuario/projeto2)
-
-Descrição breve do projeto.
-
-<!-- Fim da seção de projetos -->
-
 <!-- Início da seção de contato -->
 ## Contato
 
