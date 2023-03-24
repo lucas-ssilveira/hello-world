@@ -46,9 +46,6 @@ Se você quiser entrar em contato comigo, fique à vontade para enviar uma mensa
 
 Saiba sobre minhas experiências: [linkedin.com/in/lucassilveira/](https://www.linkedin.com/in/lucassilveira/)
 
-<a href="https://linkedin.com/in/lucassilveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucassilveira" height="30" width="40" /></a>
-
-
 <!-- Fim da seção de contato -->
 
 
