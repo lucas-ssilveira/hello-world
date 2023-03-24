@@ -2,7 +2,7 @@
 
 <h1 align="center">Lucas Silveira</h1>
 
-<p align="center">Analista de Suporte em transição de carreira para a área de dados</p>
+<p align="center">Aspirante a Analista de Dados</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucassilveira/">
@@ -14,13 +14,17 @@
 <!-- Início da seção sobre mim -->
 ## Sobre Mim
 
-Olá, tudo bem? Meu nome é Lucas e sou um entusiasta pela área de dados! Atualmente, estou cursando Gestão de TI pela Universidade Cruzeiro do Sul e me dedicando em estudos adicionais em análise de dados e business intelligence.
+Olá, tudo bem? Seja bem vindo (a)!
 
-Tenho conhecimento dos fundamentos principais da área: Data Science, Data Analytics, Big Data, AI, Machine Learning, Data Visualization, Data Modeling, Cloud Computing, entre outros.
+Meu nome é Lucas, sou natural do Rio Grande do Sul, atualmente cursando Gestão de TI pela Universidade Cruzeiro do Sul e me dedicando em estudos adicionais em análise de dados e business intelligence.
 
-Por meio deste perfil, quero compartilhar o aprendizado que venho adquirindo nessa jornada. Sinta-se à vontade para explorar meus projetos. Estou sempre aberto a sugestões e comentários para aprimorar minhas habilidades.
+Por meio deste perfil, quero compartilhar o aprendizado que venho adquirindo nessa jornada. 
 
-Espero poder trocar experiências e conhecimento com outros profissionais da área e aprender cada vez mais. Acredito que os dados são a chave para a tomada de decisões inteligentes e que podem mudar o mundo!
+Possuo Especialização em Excel para Análise e Visualização de Dados pela Macquarie University. Além disso, tenho conhecimento fundamental dos principais conceitos da área: Data Science, Data Analytics, Big Data, AI, Machine Learning, Data Visualization, Data Modeling, Cloud Computing, entre outros.
+
+Sinta-se à vontade para explorar meus projetos. Estou sempre aberto a sugestões e comentários para aprimorar minhas habilidades.
+
+Acredito que os dados são a chave para a tomada de decisões inteligentes e que podem mudar o mundo! Espero poder trocar experiências e conhecimento com outros profissionais da área e aprender cada vez mais. 
 
 <!-- Fim da seção sobre mim -->
 
