@@ -16,15 +16,15 @@
 
 Olá, tudo bem? Seja bem vindo (a)!
 
-Meu nome é Lucas, sou natural do Rio Grande do Sul, atualmente cursando Gestão de TI pela Universidade Cruzeiro do Sul e me dedicando em estudos adicionais em análise de dados e business intelligence.
+Meu nome é Lucas, sou natural do Rio Grande do Sul, tenho mais de 5 anos de experiência em atendimento e suporte, atualmente estou cursando Gestão de TI pela Universidade Cruzeiro do Sul e me dedicando em estudos adicionais em análise de dados e business intelligence com Power BI e Python.
 
 Por meio deste perfil, quero compartilhar o aprendizado que venho adquirindo nessa jornada. 
 
-Possuo Especialização em Excel para Análise e Visualização de Dados pela Macquarie University. Além disso, tenho conhecimento fundamental dos principais conceitos da área: Data Science, Data Analytics, Big Data, AI, Machine Learning, Data Visualization, Data Modeling, Cloud Computing, entre outros.
+Possuo Especialização em Excel para Análise e Visualização de Dados pela Macquarie University, e conheço os fundamentos dos principais conceitos da área, incluindo Data Science, Data Analytics, Big Data, AI, Machine Learning, ETL, Data Modeling, Data Visualization, Cloud Computing, entre outros.
 
 Sinta-se à vontade para explorar meus projetos. Estou sempre aberto a sugestões e comentários para aprimorar minhas habilidades.
 
-Acredito que os dados são a chave para a tomada de decisões inteligentes e que podem mudar o mundo! Espero poder trocar experiências e conhecimento com outros profissionais da área e aprender cada vez mais. 
+Acredito que os dados são a chave para a tomada de decisões inteligentes e que podem mudar o mundo. Espero poder trocar experiências e conhecimento com outros profissionais da área e aprender cada vez mais!
 
 <!-- Fim da seção sobre mim -->
 
