@@ -27,6 +27,8 @@ Sinta-se à vontade para explorar meus projetos. Estou sempre aberto a sugestõe
 Acredito que os dados são a chave para a tomada de decisões inteligentes e que podem mudar o mundo. Espero poder trocar experiências e conhecimento com outros profissionais da área e aprender cada vez mais!
 
 <!-- Fim da seção sobre mim -->
+## Projetos
+[Projetos em Power BI](https://github.com/lucas-ssilveira/PowerBI-DSA.git)
 
 <!-- Início da seção de contato -->
 ## Contato
